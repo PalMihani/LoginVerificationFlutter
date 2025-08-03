@@ -58,8 +58,8 @@ Before you begin, ensure you have:
 ### Backend Setup
 
 1. Clone this repository
-git clone https://github.com/yourusername/flutter-whatsapp-otp-auth.git
-cd flutter-whatsapp-otp-auth
+git clone https://github.com/PalMihani/LoginVerificationFlutter.git
+cd LoginVerificationFlutter
 
 text
 
